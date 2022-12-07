@@ -52,3 +52,5 @@
 * Correction des données de consommation de l'effet température à l'aide de la régression linéaire  
 * Désaisonnalisation de la consommation afin de corriger les différences de consommations liées à la saison 
 * Prévision par la méthode Holt-Winters puis par la méthode SARIMA afin de comparer les 2 méthodes avec le calcul du MAPE (Mean Absolute Percentage)  
+
+theme: slate
