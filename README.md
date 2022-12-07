@@ -2,11 +2,11 @@
 
 
 # [Projet 3 : Etude de santé publique](https://github.com/denisthongvan/Etude-de-sante-publique)
-" Calcul de la population mondiale
-" Calcul de la disponibilité alimentaire mondiale
-" Calcul du pourcentage de la population mondiale considérée comme étant en sous-nutrition
-" Classement des produits les plus exportés et les plus importés
-" Requêtes SQL
+" Calcul de la population mondiale "
+" Calcul de la disponibilité alimentaire mondiale "
+" Calcul du pourcentage de la population mondiale considérée comme étant en sous-nutrition "
+" Classement des produits les plus exportés et les plus importés "
+" Requêtes SQL "
 
 
 # [Projet 4 : Analyse des ventes en ligne d'une librairie](https://github.com/denisthongvan/analyse-des-ventes-librairie)
