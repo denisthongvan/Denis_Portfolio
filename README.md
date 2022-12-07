@@ -53,4 +53,4 @@
 * Désaisonnalisation de la consommation afin de corriger les différences de consommations liées à la saison 
 * Prévision par la méthode Holt-Winters puis par la méthode SARIMA afin de comparer les 2 méthodes avec le calcul du MAPE (Mean Absolute Percentage)  
 
-theme: slate
+theme: Slate
